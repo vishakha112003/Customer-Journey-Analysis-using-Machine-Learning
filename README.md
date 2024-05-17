@@ -1,4 +1,7 @@
 # Customer Journey Mapping Analytics using Machine Learning 
+
+![](/images/souledtstore.jpg)
+
 Customer journey mapping is the process of creating a visual representation of a customer's interactions with a brand, product, or service. The customer journey map is a tool to visualize the experience of interacting with our brand from the customer's point of view. This map is critical because it forces us to look at how the customers actually experience our brand versus how we think they do. A customer journey map is a visual depiction of the stages customers go through when interacting with a company -- from buying products online to accessing customer service on the phone to airing grievances on social media.
 
 This is a project that involves customer journey analysis for a famous clothing brand startup named The Souled Store to predict at what journey stage the customer tends to leave his/her journey with the company and understand their customer buying behaviour. 
