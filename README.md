@@ -69,7 +69,7 @@ The two data files were merged using joins and data cleaning was done to handle 
 
  ## Power BI dashboard
 
- ![](/images/Dashboard 1.png)
+ ![](/images/Dashboard%201.png)
  
  Finally, I made a Power Bi dashboard to get a overview about the entire data, understand the sales and purchase, analyzed different marketing strategies and at the end, I prepared a summary to understand what all changes can be implemented to understand business growth.
  
