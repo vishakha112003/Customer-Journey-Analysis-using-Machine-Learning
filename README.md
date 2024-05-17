@@ -70,7 +70,7 @@ The two data files were merged using joins and data cleaning was done to handle 
  ## Power BI dashboard
  Finally, I made a Power Bi dashboard to get a overview about the entire data, understand the sales and purchase, analyzed different marketing strategies and at the end, I prepared a summary to understand what all changes can be implemented to understand business growth.
  
-![Dashboard](https://github.com/vishakha112003/Customer-Journey-Mapping-Analytics-using-Machine-Learning-For-The-Souled-Store/assets/127123285/0b0ad02c-7f9f-4339-9f45-3e1b62abefb0)
+
 
  ####  This project was done only for learning purposes.
 
