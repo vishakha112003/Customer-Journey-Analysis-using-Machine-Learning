@@ -1,0 +1,251 @@
+CustomerID,Month Of Interaction,New/Old Customer,Referral sources,Clothing Section,Journey Stage,Touchpoints,Actions,Outcomes,Sales Campaign,Feedback Rating,Channels
+1,March,No,Friends/Family,Men,Awareness,Website,Viewed Product,Continued Browsing,End of Season Sale,8,Online
+2,January,No,Social Media Influencer,Men,Purchase,Website,Made Purchase,Purchased,Winter Collection,2,Online
+3,February,Yes,Friends/Family,Men,Purchase,E-Commerce,Made Purchase,Purchased,End of Season Sale,2,Online
+4,January,Yes,Friends/Family,Men,Awareness,Website,Viewed Product,Continued Browsing,Winter Collection,9,Online
+5,January,Yes,Friends/Family,Men,Purchase,Social Media,Added to Cart,Purchased,Winter Collection,5,Online
+6,March,Yes,Friends/Family,Men,Purchase,In-Store,Made Purchase,Purchased,End of Season Sale,8,In-Person
+7,February,No,Friends/Family,Men,Purchase,E-Commerce,Added to Cart,Purchased,Winter Collection,10,Online
+8,April,Yes,Friends/Family,Men,Purchase,E-Commerce,Made Purchase,Purchased,New Arrivals,1,Online
+9,April,No,Friends/Family,Men,Purchase,E-Commerce,Made Purchase,Purchased,Summer Collection,7,Online
+10,March,Yes,Social Media Influencer,Men,Purchase,E-Commerce,Made Purchase,Purchased,New Arrivals,3,Online
+11,March,Yes,Friends/Family,Men,Purchase,In-Store,Made Purchase,Purchased,End of Season Sale,6,In-Person
+12,February,No,Friends/Family,Men,Awareness,Social Media,Viewed Product,Continued Browsing,Winter Collection,5,Online
+13,April,Yes,Social Media Influencer,Men,Purchase,In-Store,Made Purchase,Purchased,Summer Collection,5,In-Person
+14,April,Yes,Social Media Influencer,Men,Purchase,Social Media,Made Purchase,Purchased,Summer Collection,5,Online
+15,April,Yes,Social Media Influencer,Men,Purchase,E-Commerce,Made Purchase,Purchased,New Arrivals,1,Online
+16,January,Yes,Friends/Family,Men,Purchase,Social Media,Made Purchase,Purchased,New Arrivals,1,Online
+17,April,No,Advertisement,Men,Purchase,E-Commerce,Made Purchase,Purchased,Summer Collection,3,Online
+18,January,No,Advertisement,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,Winter Collection,10,Online
+19,February,Yes,Social Media Influencer,Women,Purchase,Website,Made Purchase,Purchased,End of Season Sale,8,Online
+20,January,Yes,Advertisement,Women,Purchase,Website,Made Purchase,Purchased,Winter Collection,5,Online
+21,February,Yes,Social Media Influencer,Women,Awareness,In-Store,Viewed Product,Continued Browsing,New Arrivals,2,In-Person
+22,April,No,Friends/Family,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,Summer Collection,8,Online
+23,April,No,Advertisement,Men,Purchase,Social Media,Made Purchase,Purchased,Summer Collection,2,Online
+24,February,No,Friends/Family,Men,Purchase,Social Media,Made Purchase,Purchased,End of Season Sale,9,Online
+25,March,No,Advertisement,Women,Purchase,Website,Made Purchase,Purchased,End of Season Sale,2,Online
+26,February,Yes,Friends/Family,Men,Retention,Website,Posted Review,Review Posted,Winter Collection,9,Online
+27,March,Yes,Advertisement,Men,Retention,Website,Posted Review,Review Posted,End of Season Sale,7,Online
+28,January,Yes,Friends/Family,Men,Purchase,E-Commerce,Made Purchase,Purchased,Winter Collection,8,Online
+29,January,No,Friends/Family,Men,Awareness,In-Store,Viewed Product,Continued Browsing,New Arrivals,2,In-Person
+30,January,Yes,Advertisement,Men,Awareness,Social Media,Viewed Product,Continued Browsing,Winter Collection,7,Online
+31,April,No,Friends/Family,Women,Retention,Website,Posted Review,Review Posted,Summer Collection,6,Online
+32,January,No,Friends/Family,Women,Awareness,Website,Viewed Product,Continued Browsing,Winter Collection,8,Online
+33,March,Yes,Friends/Family,Men,Awareness,Social Media,Viewed Product,Continued Browsing,End of Season Sale,7,Online
+34,January,Yes,Advertisement,Men,Retention,Social Media,Posted Review,Review Posted,Winter Collection,8,Online
+35,February,Yes,Advertisement,Women,Retention,Website,Posted Review,Review Posted,New Arrivals,2,Online
+36,February,No,Friends/Family,Women,Purchase,Website,Made Purchase,Purchased,End of Season Sale,10,Online
+37,April,No,Friends/Family,Women,Awareness,E-Commerce,Viewed Product,Continued Browsing,New Arrivals,7,Online
+38,February,Yes,Advertisement,Men,Awareness,In-Store,Viewed Product,Continued Browsing,Winter Collection,8,In-Person
+39,March,Yes,Advertisement,Men,Purchase,Website,Made Purchase,Purchased,New Arrivals,2,Online
+40,January,No,Friends/Family,Men,Purchase,In-Store,Made Purchase,Purchased,Winter Collection,5,In-Person
+41,April,Yes,Friends/Family,Men,Purchase,Social Media,Made Purchase,Purchased,Summer Collection,1,Online
+42,January,No,Friends/Family,Men,Purchase,Website,Made Purchase,Purchased,Winter Collection,7,Online
+43,January,No,Social Media Influencer,Men,Advocacy,Website,Gave Referral,Referral Made,Winter Collection,8,Online
+44,March,Yes,Advertisement,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,End of Season Sale,6,Online
+45,February,Yes,Social Media Influencer,Men,Advocacy,Social Media,Gave Referral,Referral Made,End of Season Sale,5,Online
+46,February,Yes,Advertisement,Men,Consideration,In-Store,Added to Cart,Cart Abandoned,New Arrivals,4,In-Person
+47,January,Yes,Advertisement,Men,Consideration,In-Store,Added to Cart,Cart Abandoned,Winter Collection,4,In-Person
+48,April,No,Advertisement,Men,Awareness,E-Commerce,Added to Cart,Continued Browsing,Summer Collection,1,Online
+49,February,No,Advertisement,Women,Awareness,In-Store,Viewed Product,Continued Browsing,New Arrivals,7,In-Person
+50,April,No,Advertisement,Men,Advocacy,Website,Made Purchase,Referral Made,Summer Collection,7,Online
+51,February,Yes,Advertisement,Men,Retention,Social Media,Posted Review,Review Posted,New Arrivals,10,Online
+52,April,No,Advertisement,Men,Awareness,Website,Added to Cart,Continued Browsing,Summer Collection,10,Online
+53,March,Yes,Social Media Influencer,Women,Retention,E-Commerce,Posted Review,Review Posted,Summer Collection,2,Online
+54,April,Yes,Friends/Family,Men,Awareness,In-Store,Viewed Product,Continued Browsing,New Arrivals,2,In-Person
+55,March,Yes,Friends/Family,Men,Consideration,Social Media,Added to Cart,Cart Abandoned,End of Season Sale,1,Online
+56,March,Yes,Social Media Influencer,Men,Purchase,Social Media,Made Purchase,Continued Browsing,End of Season Sale,10,Online
+57,April,Yes,Social Media Influencer,Men,Retention,Social Media,Posted Review,Review Posted,New Arrivals,8,Online
+58,March,Yes,Social Media Influencer,Women,Awareness,Website,Viewed Product,Continued Browsing,New Arrivals,8,Online
+59,January,No,Social Media Influencer,Men,Advocacy,E-Commerce,Gave Referral,Referral Made,New Arrivals,1,Online
+60,March,Yes,Advertisement,Men,Purchase,E-Commerce,Made Purchase,Continued Browsing,End of Season Sale,8,Online
+61,February,No,Friends/Family,Men,Purchase,E-Commerce,Added to Cart,Purchased,Winter Collection,9,Online
+62,April,No,Advertisement,Men,Advocacy,Website,Gave Referral,Referral Made,New Arrivals,8,Online
+63,January,Yes,Friends/Family,Men,Purchase,E-Commerce,Made Purchase,Purchased,Winter Collection,6,Online
+64,April,Yes,Friends/Family,Women,Retention,E-Commerce,Posted Review,Review Posted,Summer Collection,6,Online
+65,February,Yes,Social Media Influencer,Women,Retention,Social Media,Posted Review,Review Posted,End of Season Sale,3,Online
+66,February,No,Advertisement,Women,Awareness,Website,Viewed Product,Continued Browsing,Winter Collection,5,Online
+67,February,Yes,Social Media Influencer,Women,Retention,Website,Posted Review,Review Posted,End of Season Sale,5,Online
+68,March,No,Advertisement,Men,Awareness,Website,Added to Cart,Continued Browsing,End of Season Sale,9,Online
+69,March,Yes,Friends/Family,Men,Advocacy,Website,Gave Referral,Referral Made,End of Season Sale,10,Online
+70,April,Yes,Social Media Influencer,Women,Awareness,E-Commerce,Viewed Product,Continued Browsing,Summer Collection,7,Online
+71,April,No,Social Media Influencer,Men,Awareness,In-Store,Viewed Product,Continued Browsing,Summer Collection,2,In-Person
+72,January,No,Friends/Family,Men,Purchase,Social Media,Made Purchase,Continued Browsing,Winter Collection,6,Online
+73,January,Yes,Friends/Family,Men,Retention,Social Media,Posted Review,Review Posted,Winter Collection,9,Online
+74,April,No,Friends/Family,Men,Consideration,In-Store,Added to Cart,Cart Abandoned,Summer Collection,1,In-Person
+75,March,No,Social Media Influencer,Women,Awareness,Website,Viewed Product,Continued Browsing,End of Season Sale,9,Online
+76,February,No,Advertisement,Men,Consideration,In-Store,Added to Cart,Cart Abandoned,New Arrivals,9,In-Person
+77,April,No,Social Media Influencer,Men,Advocacy,Website,Made Purchase,Referral Made,Summer Collection,9,Online
+78,January,No,Advertisement,Men,Advocacy,Website,Made Purchase,Referral Made,Winter Collection,5,Online
+79,March,Yes,Social Media Influencer,Men,Awareness,Website,Viewed Product,Continued Browsing,Summer Collection,9,Online
+80,April,Yes,Social Media Influencer,Women,Retention,Social Media,Posted Review,Review Posted,Summer Collection,4,Online
+81,April,No,Advertisement,Men,Retention,Website,Posted Review,Review Posted,Summer Collection,2,Online
+82,March,Yes,Advertisement,Men,Purchase,Social Media,Made Purchase,Purchased,New Arrivals,6,Online
+83,April,Yes,Social Media Influencer,Men,Advocacy,Website,Made Purchase,Referral Made,Summer Collection,8,Online
+84,March,No,Social Media Influencer,Men,Retention,E-Commerce,Posted Review,Review Posted,New Arrivals,6,Online
+85,February,Yes,Advertisement,Men,Retention,Social Media,Posted Review,Review Posted,New Arrivals,3,Online
+86,March,No,Advertisement,Women,Advocacy,E-Commerce,Gave Referral,Referral Made,End of Season Sale,6,Online
+87,March,No,Advertisement,Men,Consideration,In-Store,Added to Cart,Cart Abandoned,Summer Collection,4,In-Person
+88,March,Yes,Social Media Influencer,Women,Purchase,In-Store,Added to Cart,Purchased,Summer Collection,9,In-Person
+89,April,No,Advertisement,Men,Retention,Website,Posted Review,Review Posted,New Arrivals,9,Online
+90,April,No,Social Media Influencer,Men,Awareness,In-Store,Viewed Product,Continued Browsing,Summer Collection,7,In-Person
+91,March,No,Advertisement,Men,Advocacy,Website,Gave Referral,Referral Made,Summer Collection,3,Online
+92,April,No,Advertisement,Women,Purchase,In-Store,Made Purchase,Purchased,Summer Collection,6,In-Person
+93,January,No,Social Media Influencer,Women,Advocacy,Website,Gave Referral,Referral Made,Winter Collection,8,Online
+94,January,Yes,Advertisement,Women,Purchase,In-Store,Made Purchase,Purchased,Winter Collection,6,In-Person
+95,April,Yes,Social Media Influencer,Men,Retention,Website,Posted Review,Review Posted,Summer Collection,7,Online
+96,April,No,Social Media Influencer,Men,Advocacy,Social Media,Gave Referral,Referral Made,Summer Collection,9,Online
+97,March,No,Advertisement,Women,Retention,E-Commerce,Posted Review,Review Posted,End of Season Sale,5,Online
+98,February,Yes,Social Media Influencer,Men,Consideration,Website,Added to Cart,Cart Abandoned,New Arrivals,1,Online
+99,April,No,Social Media Influencer,Men,Awareness,In-Store,Added to Cart,Continued Browsing,Summer Collection,10,In-Person
+100,January,Yes,Social Media Influencer,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,Winter Collection,7,Online
+101,March,No,Social Media Influencer,Men,Advocacy,Website,Gave Referral,Referral Made,Summer Collection,5,Online
+102,April,No,Social Media Influencer,Women,Retention,Website,Posted Review,Review Posted,Summer Collection,3,Online
+103,January,No,Social Media Influencer,Women,Advocacy,Website,Made Purchase,Referral Made,Winter Collection,9,Online
+104,January,No,Social Media Influencer,Women,Consideration,In-Store,Added to Cart,Cart Abandoned,Winter Collection,1,In-Person
+105,February,No,Advertisement,Women,Awareness,In-Store,Added to Cart,Continued Browsing,End of Season Sale,6,In-Person
+106,March,No,Social Media Influencer,Women,Purchase,E-Commerce,Made Purchase,Continued Browsing,New Arrivals,6,Online
+107,March,No,Social Media Influencer,Men,Retention,Social Media,Posted Review,Review Posted,End of Season Sale,3,Online
+108,February,Yes,Social Media Influencer,Men,Retention,Social Media,Posted Review,Review Posted,Winter Collection,6,Online
+109,February,Yes,Advertisement,Women,Advocacy,Social Media,Gave Referral,Referral Made,End of Season Sale,10,Online
+110,March,Yes,Social Media Influencer,Men,Advocacy,E-Commerce,Gave Referral,Referral Made,Summer Collection,3,Online
+111,March,No,Social Media Influencer,Women,Awareness,Social Media,Viewed Product,Continued Browsing,Summer Collection,8,Online
+112,April,No,Advertisement,Men,Purchase,In-Store,Added to Cart,Purchased,Summer Collection,10,In-Person
+113,April,No,Advertisement,Men,Consideration,Website,Viewed Product,Continued Browsing,Summer Collection,2,Online
+114,February,No,Social Media Influencer,Men,Retention,E-Commerce,Posted Review,Review Posted,Winter Collection,9,Online
+115,April,No,Social Media Influencer,Men,Purchase,Website,Made Purchase,Purchased,Summer Collection,3,Online
+116,January,No,Advertisement,Women,Retention,Website,Posted Review,Review Posted,New Arrivals,5,Online
+117,April,No,Social Media Influencer,Men,Awareness,Website,Added to Cart,Continued Browsing,Summer Collection,10,Online
+118,April,Yes,Social Media Influencer,Women,Retention,Website,Posted Review,Review Posted,New Arrivals,3,Online
+119,January,No,Social Media Influencer,Women,Awareness,Website,Viewed Product,Continued Browsing,New Arrivals,2,Online
+120,February,Yes,Social Media Influencer,Men,Consideration,Website,Viewed Product,Continued Browsing,Winter Collection,6,Online
+121,January,Yes,Social Media Influencer,Women,Consideration,E-Commerce,Viewed Product,Continued Browsing,Winter Collection,5,Online
+122,April,No,Social Media Influencer,Men,Awareness,In-Store,Viewed Product,Continued Browsing,New Arrivals,10,In-Person
+123,February,No,Social Media Influencer,Women,Awareness,In-Store,Added to Cart,Continued Browsing,New Arrivals,9,In-Person
+124,April,Yes,Social Media Influencer,Men,Retention,Social Media,Made Purchase,Review Posted,Summer Collection,5,Online
+125,January,Yes,Advertisement,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,Winter Collection,9,Online
+126,January,No,Advertisement,Men,Awareness,Website,Viewed Product,Continued Browsing,Winter Collection,5,Online
+127,April,No,Advertisement,Women,Purchase,Website,Added to Cart,Purchased,Summer Collection,8,Online
+128,March,Yes,Social Media Influencer,Men,Awareness,Social Media,Viewed Product,Continued Browsing,New Arrivals,7,Online
+129,March,No,Social Media Influencer,Men,Awareness,In-Store,Viewed Product,Continued Browsing,Summer Collection,6,In-Person
+130,January,No,Advertisement,Women,Awareness,Website,Viewed Product,Continued Browsing,Winter Collection,2,Online
+131,January,No,Social Media Influencer,Men,Retention,Website,Made Purchase,Review Posted,Winter Collection,5,Online
+132,March,Yes,Social Media Influencer,Women,Retention,Website,Posted Review,Review Posted,New Arrivals,7,Online
+133,March,Yes,Social Media Influencer,Men,Awareness,In-Store,Added to Cart,Continued Browsing,New Arrivals,7,In-Person
+134,April,Yes,Social Media Influencer,Men,Purchase,E-Commerce,Added to Cart,Purchased,Summer Collection,5,Online
+135,April,No,Social Media Influencer,Women,Awareness,Website,Viewed Product,Continued Browsing,Summer Collection,6,Online
+136,March,No,Social Media Influencer,Men,Awareness,Website,Viewed Product,Continued Browsing,End of Season Sale,8,Online
+137,April,Yes,Social Media Influencer,Men,Retention,E-Commerce,Posted Review,Review Posted,Summer Collection,3,Online
+138,April,Yes,Social Media Influencer,Men,Consideration,In-Store,Added to Cart,Cart Abandoned,Summer Collection,4,In-Person
+139,February,Yes,Advertisement,Men,Purchase,Website,Made Purchase,Continued Browsing,Winter Collection,5,Online
+140,April,No,Advertisement,Women,Awareness,E-Commerce,Added to Cart,Continued Browsing,New Arrivals,6,Online
+141,January,Yes,Social Media Influencer,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,Winter Collection,3,Online
+142,April,Yes,Advertisement,Kids,Purchase,E-Commerce,Added to Cart,Purchased,Summer Collection,9,Online
+143,April,No,Advertisement,Men,Retention,Website,Posted Review,Review Posted,Summer Collection,4,Online
+144,March,No,Advertisement,Men,Awareness,Website,Viewed Product,Continued Browsing,Summer Collection,5,Online
+145,January,No,Advertisement,Kids,Retention,Social Media,Posted Review,Review Posted,New Arrivals,5,Online
+146,April,Yes,Social Media Influencer,Men,Awareness,In-Store,Viewed Product,Continued Browsing,Summer Collection,3,In-Person
+147,April,No,Social Media Influencer,Women,Awareness,Website,Viewed Product,Continued Browsing,Summer Collection,4,Online
+148,February,No,Advertisement,Women,Awareness,E-Commerce,Viewed Product,Continued Browsing,End of Season Sale,10,Online
+149,April,Yes,Social Media Influencer,Women,Consideration,Social Media,Added to Cart,Cart Abandoned,Summer Collection,4,Online
+150,April,No,Social Media Influencer,Kids,Retention,Website,Posted Review,Review Posted,Summer Collection,2,Online
+151,February,Yes,Social Media Influencer,Men,Awareness,Social Media,Viewed Product,Continued Browsing,End of Season Sale,9,Online
+152,March,Yes,Advertisement,Women,Awareness,Website,Viewed Product,Continued Browsing,Summer Collection,6,Online
+153,April,No,Advertisement,Kids,Consideration,E-Commerce,Viewed Product,Continued Browsing,New Arrivals,4,Online
+154,February,No,Social Media Influencer,Men,Consideration,Website,Viewed Product,Continued Browsing,End of Season Sale,7,Online
+155,January,No,Advertisement,Kids,Awareness,Website,Viewed Product,Continued Browsing,Winter Collection,6,Online
+156,March,No,Advertisement,Women,Purchase,Website,Made Purchase,Continued Browsing,Summer Collection,7,Online
+157,January,No,Social Media Influencer,Women,Consideration,Website,Added to Cart,Cart Abandoned,Winter Collection,4,Online
+158,January,No,Social Media Influencer,Women,Retention,Website,Posted Review,Review Posted,Winter Collection,7,Online
+159,February,Yes,Advertisement,Kids,Consideration,In-Store,Added to Cart,Cart Abandoned,Winter Collection,7,In-Person
+160,April,Yes,Advertisement,Kids,Awareness,E-Commerce,Viewed Product,Continued Browsing,New Arrivals,8,Online
+161,February,No,Social Media Influencer,Women,Consideration,Website,Viewed Product,Continued Browsing,Winter Collection,4,Online
+162,February,Yes,Social Media Influencer,Kids,Purchase,Website,Added to Cart,Purchased,End of Season Sale,10,Online
+163,February,No,Advertisement,Women,Consideration,Social Media,Viewed Product,Continued Browsing,End of Season Sale,7,Online
+164,February,Yes,Social Media Influencer,Women,Awareness,Website,Viewed Product,Continued Browsing,End of Season Sale,8,Online
+165,March,Yes,Social Media Influencer,Men,Purchase,Social Media,Made Purchase,Purchased,New Arrivals,8,Online
+166,April,Yes,Social Media Influencer,Kids,Consideration,In-Store,Added to Cart,Cart Abandoned,Summer Collection,4,In-Person
+167,January,No,Social Media Influencer,Women,Awareness,E-Commerce,Viewed Product,Continued Browsing,New Arrivals,7,Online
+168,January,Yes,Advertisement,Women,Purchase,Website,Added to Cart,Purchased,New Arrivals,6,Online
+169,April,No,Social Media Influencer,Kids,Awareness,Social Media,Viewed Product,Continued Browsing,New Arrivals,7,Online
+170,January,Yes,Advertisement,Men,Awareness,Social Media,Viewed Product,Continued Browsing,New Arrivals,6,Online
+171,April,Yes,Social Media Influencer,Men,Purchase,In-Store,Made Purchase,Purchased,New Arrivals,8,In-Person
+172,January,Yes,Social Media Influencer,Women,Awareness,E-Commerce,Viewed Product,Continued Browsing,Winter Collection,8,Online
+173,February,Yes,Advertisement,Kids,Purchase,Website,Made Purchase,Continued Browsing,Winter Collection,10,Online
+174,January,Yes,Advertisement,Men,Purchase,Website,Made Purchase,Purchased,Winter Collection,7,Online
+175,April,No,Social Media Influencer,Kids,Awareness,E-Commerce,Viewed Product,Continued Browsing,Summer Collection,6,Online
+176,April,No,Advertisement,Kids,Purchase,E-Commerce,Made Purchase,Purchased,New Arrivals,6,Online
+177,April,Yes,Social Media Influencer,Women,Awareness,Website,Added to Cart,Continued Browsing,Summer Collection,5,Online
+178,April,Yes,Advertisement,Men,Purchase,Social Media,Made Purchase,Purchased,Summer Collection,6,Online
+179,April,Yes,Advertisement,Women,Consideration,In-Store,Added to Cart,Cart Abandoned,Summer Collection,9,In-Person
+180,March,Yes,Advertisement,Men,Awareness,Social Media,Viewed Product,Continued Browsing,New Arrivals,10,Online
+181,March,No,Social Media Influencer,Men,Purchase,In-Store,Made Purchase,Purchased,Summer Collection,6,In-Person
+182,January,Yes,Advertisement,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,Winter Collection,10,Online
+183,April,No,Advertisement,Men,Awareness,Website,Viewed Product,Continued Browsing,New Arrivals,4,Online
+184,January,Yes,Advertisement,Men,Purchase,In-Store,Made Purchase,Purchased,Winter Collection,10,In-Person
+185,April,No,Social Media Influencer,Kids,Purchase,Website,Made Purchase,Purchased,Summer Collection,6,Online
+186,April,Yes,Social Media Influencer,Women,Consideration,E-Commerce,Added to Cart,Cart Abandoned,Summer Collection,3,Online
+187,March,Yes,Social Media Influencer,Kids,Consideration,In-Store,Added to Cart,Cart Abandoned,Summer Collection,4,In-Person
+188,March,No,Social Media Influencer,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,End of Season Sale,4,Online
+189,February,Yes,Social Media Influencer,Women,Consideration,In-Store,Added to Cart,Cart Abandoned,New Arrivals,1,In-Person
+190,March,Yes,Advertisement,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,Summer Collection,10,Online
+191,February,Yes,Social Media Influencer,Women,Awareness,E-Commerce,Viewed Product,Continued Browsing,End of Season Sale,5,Online
+192,February,No,Social Media Influencer,Kids,Consideration,E-Commerce,Added to Cart,Cart Abandoned,End of Season Sale,4,Online
+193,February,Yes,Social Media Influencer,Women,Purchase,In-Store,Made Purchase,Purchased,End of Season Sale,9,In-Person
+194,February,Yes,Social Media Influencer,Women,Purchase,Social Media,Made Purchase,Purchased,Winter Collection,8,Online
+195,February,No,Social Media Influencer,Women,Purchase,E-Commerce,Made Purchase,Purchased,End of Season Sale,3,Online
+196,January,No,Social Media Influencer,Women,Awareness,Social Media,Viewed Product,Continued Browsing,Winter Collection,7,Online
+197,March,No,Advertisement,Women,Consideration,Website,Added to Cart,Cart Abandoned,New Arrivals,7,Online
+198,February,Yes,Advertisement,Men,Consideration,Website,Added to Cart,Cart Abandoned,End of Season Sale,10,Online
+199,April,Yes,Advertisement,Women,Purchase,Website,Made Purchase,Purchased,New Arrivals,9,Online
+200,March,Yes,Advertisement,Women,Consideration,In-Store,Added to Cart,Cart Abandoned,Summer Collection,4,In-Person
+201,March,No,Social Media Influencer,Kids,Awareness,In-Store,Viewed Product,Continued Browsing,End of Season Sale,3,In-Person
+202,February,Yes,Advertisement,Women,Awareness,Social Media,Added to Cart,Continued Browsing,End of Season Sale,7,Online
+203,January,Yes,Social Media Influencer,Kids,Awareness,Website,Added to Cart,Continued Browsing,Winter Collection,10,Online
+204,February,No,Social Media Influencer,Men,Consideration,Website,Added to Cart,Cart Abandoned,Winter Collection,1,Online
+205,January,No,Advertisement,Women,Awareness,E-Commerce,Viewed Product,Continued Browsing,New Arrivals,7,Online
+206,April,No,Social Media Influencer,Kids,Awareness,E-Commerce,Viewed Product,Continued Browsing,Summer Collection,2,Online
+207,March,No,Social Media Influencer,Kids,Awareness,Website,Viewed Product,Continued Browsing,End of Season Sale,5,Online
+208,April,No,Social Media Influencer,Men,Awareness,Social Media,Viewed Product,Continued Browsing,New Arrivals,4,Online
+209,January,Yes,Advertisement,Women,Awareness,Social Media,Viewed Product,Continued Browsing,Winter Collection,3,Online
+210,January,No,Social Media Influencer,Women,Consideration,Website,Added to Cart,Cart Abandoned,Winter Collection,4,Online
+211,April,Yes,Social Media Influencer,Kids,Purchase,E-Commerce,Made Purchase,Continued Browsing,Summer Collection,8,Online
+212,January,Yes,Social Media Influencer,Women,Consideration,Social Media,Added to Cart,Cart Abandoned,Winter Collection,7,Online
+213,April,No,Social Media Influencer,Kids,Awareness,E-Commerce,Viewed Product,Continued Browsing,Summer Collection,5,Online
+214,March,No,Social Media Influencer,Women,Purchase,Social Media,Made Purchase,Purchased,New Arrivals,4,Online
+215,April,No,Advertisement,Kids,Consideration,Website,Added to Cart,Cart Abandoned,Summer Collection,4,Online
+216,March,Yes,Social Media Influencer,Women,Consideration,Website,Added to Cart,Cart Abandoned,Summer Collection,5,Online
+217,April,No,Social Media Influencer,Men,Consideration,Social Media,Added to Cart,Cart Abandoned,Summer Collection,3,Online
+218,January,No,Social Media Influencer,Women,Purchase,Website,Made Purchase,Purchased,Winter Collection,7,Online
+219,April,No,Social Media Influencer,Women,Purchase,Social Media,Made Purchase,Purchased,Summer Collection,7,Online
+220,January,No,Social Media Influencer,Men,Purchase,Social Media,Made Purchase,Purchased,New Arrivals,6,Online
+221,April,No,Social Media Influencer,Women,Purchase,Social Media,Made Purchase,Purchased,New Arrivals,6,Online
+222,April,Yes,Social Media Influencer,Men,Purchase,Social Media,Made Purchase,Purchased,Summer Collection,9,Online
+223,February,Yes,Advertisement,Women,Purchase,Social Media,Made Purchase,Continued Browsing,End of Season Sale,9,Online
+224,January,Yes,Advertisement,Kids,Consideration,Social Media,Added to Cart,Cart Abandoned,Winter Collection,3,Online
+225,February,No,Social Media Influencer,Kids,Purchase,Social Media,Made Purchase,Purchased,End of Season Sale,8,Online
+226,January,No,Social Media Influencer,Women,Consideration,Website,Added to Cart,Cart Abandoned,Winter Collection,5,Online
+227,February,No,Advertisement,Women,Consideration,Social Media,Added to Cart,Cart Abandoned,End of Season Sale,4,Online
+228,March,Yes,Social Media Influencer,Women,Awareness,Social Media,Viewed Product,Continued Browsing,Summer Collection,3,Online
+229,April,No,Social Media Influencer,Kids,Consideration,Social Media,Added to Cart,Cart Abandoned,New Arrivals,8,Online
+230,January,No,Advertisement,Women,Awareness,Website,Viewed Product,Continued Browsing,Winter Collection,6,Online
+231,January,No,Social Media Influencer,Kids,Consideration,Social Media,Added to Cart,Cart Abandoned,Winter Collection,8,Online
+232,April,Yes,Social Media Influencer,Men,Awareness,Website,Viewed Product,Continued Browsing,Summer Collection,9,Online
+233,January,No,Social Media Influencer,Kids,Awareness,Social Media,Viewed Product,Continued Browsing,New Arrivals,4,Online
+234,January,Yes,Social Media Influencer,Kids,Consideration,Website,Added to Cart,Cart Abandoned,Winter Collection,7,Online
+235,February,No,Advertisement,Men,Consideration,Social Media,Added to Cart,Cart Abandoned,New Arrivals,4,Online
+236,January,Yes,Advertisement,Kids,Consideration,Social Media,Added to Cart,Continued Browsing,Winter Collection,3,Online
+237,March,Yes,Advertisement,Women,Awareness,Social Media,Viewed Product,Continued Browsing,End of Season Sale,7,Online
+238,March,Yes,Social Media Influencer,Women,Consideration,In-Store,Added to Cart,Continued Browsing,New Arrivals,10,In-Person
+239,April,No,Advertisement,Kids,Awareness,Website,Viewed Product,Continued Browsing,New Arrivals,6,Online
+240,January,No,Social Media Influencer,Women,Consideration,Social Media,Added to Cart,Continued Browsing,Winter Collection,8,Online
+241,April,Yes,Advertisement,Kids,Awareness,Website,Viewed Product,Continued Browsing,Summer Collection,7,Online
+242,March,Yes,Social Media Influencer,Women,Consideration,Social Media,Added to Cart,Continued Browsing,End of Season Sale,7,Online
+243,January,No,Social Media Influencer,Women,Consideration,Website,Added to Cart,Continued Browsing,Winter Collection,4,Online
+244,January,No,Social Media Influencer,Kids,Consideration,Social Media,Added to Cart,Continued Browsing,New Arrivals,5,Online
+245,April,Yes,Social Media Influencer,Women,Awareness,Social Media,Viewed Product,Continued Browsing,Summer Collection,8,Online
+246,March,No,Social Media Influencer,Kids,Consideration,Social Media,Added to Cart,Continued Browsing,End of Season Sale,8,Online
+247,January,No,Social Media Influencer,Women,Consideration,In-Store,Added to Cart,Continued Browsing,Winter Collection,3,In-Person
+248,April,No,Advertisement,Women,Consideration,Website,Added to Cart,Continued Browsing,New Arrivals,8,Online
+249,March,No,Advertisement,Men,Awareness,Social Media,Viewed Product,Continued Browsing,New Arrivals,4,Online
+250,April,Yes,Social Media Influencer,Men,Consideration,Social Media,Added to Cart,Continued Browsing,New Arrivals,8,Online

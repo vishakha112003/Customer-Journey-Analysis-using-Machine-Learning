@@ -1,0 +1,251 @@
+CustomerID,Month Of Interaction,New/Old Customer,Referral sources,Clothing Section,Journey Stage,Touchpoints,Actions,Outcomes,Sales Campaign,Feedback Rating,Channels,ProductID,Product Name,Product Category,Total Amount (in Rs)
+1,January,Old Customer,Social Media Influencer,Men,Purchase,Website,Made Purchase,Purchased,Winter Collection,2,Online,1001,Tshirt,Topwear,690
+2,January,New Customer,Friends/Family,Men,Awareness,Website,Viewed Product,Continued Browsing,Winter Collection,9,Online,,,,
+3,January,New Customer,Friends/Family,Men,Purchase,Social Media,Added to Cart,Purchased,Winter Collection,5,Online,1003,Shoes,Footwear,3325
+4,January,New Customer,Friends/Family,Men,Purchase,Social Media,Made Purchase,Purchased,New Arrivals,1,Online,1013,Pants,Bottomwear,3045
+5,January,Old Customer,Advertisement,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,Winter Collection,10,Online,,,,
+6,January,New Customer,Advertisement,Women,Purchase,Website,Made Purchase,Purchased,Winter Collection,5,Online,1016,Sweatshirt,Topwear,3855
+7,January,New Customer,Friends/Family,Men,Purchase,E-Commerce,Made Purchase,Purchased,Winter Collection,8,Online,1022,Shirt,Topwear,2185
+8,January,Old Customer,Friends/Family,Men,Awareness,In-Store,Viewed Product,Continued Browsing,New Arrivals,2,In-Person,,,,
+9,January,New Customer,Advertisement,Men,Awareness,Social Media,Viewed Product,Continued Browsing,Winter Collection,7,Online,,,,
+10,January,Old Customer,Friends/Family,Women,Awareness,Website,Viewed Product,Continued Browsing,Winter Collection,8,Online,,,,
+11,January,New Customer,Advertisement,Men,Retention,Social Media,Posted Review,Review Posted,Winter Collection,8,Online,1024,Bagpack,Accessories,1455
+12,January,Old Customer,Friends/Family,Men,Purchase,In-Store,Made Purchase,Purchased,Winter Collection,5,In-Person,1028,Cap,Accessories,1295
+13,January,Old Customer,Friends/Family,Men,Purchase,Website,Made Purchase,Purchased,Winter Collection,7,Online,1030,Pants,Bottomwear,4680
+14,January,Old Customer,Social Media Influencer,Men,Advocacy,Website,Gave Referral,Referral Made,Winter Collection,8,Online,1031,Cap,Accessories,2320
+15,January,New Customer,Advertisement,Men,Consideration,In-Store,Added to Cart,Cart Abandoned,Winter Collection,4,In-Person,,,,
+16,January,Old Customer,Social Media Influencer,Men,Advocacy,E-Commerce,Gave Referral,Referral Made,New Arrivals,1,Online,1038,Joggers,Bottomwear,1255
+17,January,New Customer,Friends/Family,Men,Purchase,E-Commerce,Made Purchase,Purchased,Winter Collection,6,Online,1042,Joggers,Bottomwear,2015
+18,January,Old Customer,Friends/Family,Men,Purchase,Social Media,Made Purchase,Continued Browsing,Winter Collection,6,Online,1047,Hoodie,Topwear,1260
+19,January,New Customer,Friends/Family,Men,Retention,Social Media,Posted Review,Review Posted,Winter Collection,9,Online,1048,Joggers,Bottomwear,4290
+20,January,Old Customer,Advertisement,Men,Advocacy,Website,Made Purchase,Referral Made,Winter Collection,5,Online,1050,Shoes,Footwear,3620
+21,January,Old Customer,Social Media Influencer,Women,Advocacy,Website,Gave Referral,Referral Made,Winter Collection,8,Online,1062,Shoes,Footwear,680
+22,January,New Customer,Advertisement,Women,Purchase,In-Store,Made Purchase,Purchased,Winter Collection,6,In-Person,1063,Shoes,Footwear,2845
+23,January,New Customer,Friends/Family,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,Winter Collection,7,Online,,,,
+24,January,Old Customer,Social Media Influencer,Women,Advocacy,Website,Made Purchase,Referral Made,Winter Collection,9,Online,1069,Joggers,Bottomwear,4890
+25,January,Old Customer,Friends/Family,Women,Consideration,In-Store,Added to Cart,Cart Abandoned,Winter Collection,1,In-Person,,,,
+26,January,Old Customer,Advertisement,Women,Retention,Website,Posted Review,Review Posted,New Arrivals,5,Online,1078,Shorts,Bottomwear,1260
+27,January,Old Customer,Friends/Family,Women,Awareness,Website,Viewed Product,Continued Browsing,New Arrivals,2,Online,,,,
+28,January,New Customer,Friends/Family,Women,Consideration,E-Commerce,Viewed Product,Continued Browsing,Winter Collection,5,Online,,,,
+29,January,New Customer,Advertisement,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,Winter Collection,9,Online,,,,
+30,January,Old Customer,Advertisement,Men,Awareness,Website,Viewed Product,Continued Browsing,Winter Collection,5,Online,,,,
+31,January,Old Customer,Advertisement,Women,Awareness,Website,Viewed Product,Continued Browsing,Winter Collection,2,Online,,,,
+32,January,Old Customer,Friends/Family,Men,Retention,Website,Made Purchase,Review Posted,Winter Collection,5,Online,1082,Hoodie,Topwear,1535
+33,January,New Customer,Social Media Influencer,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,Winter Collection,3,Online,,,,
+34,January,Old Customer,Advertisement,Kids,Retention,Social Media,Posted Review,Review Posted,New Arrivals,5,Online,1089,Shirt,Topwear,3700
+35,January,Old Customer,Advertisement,Kids,Awareness,Website,Viewed Product,Continued Browsing,Winter Collection,6,Online,,,,
+36,January,Old Customer,Social Media Influencer,Women,Consideration,Website,Added to Cart,Cart Abandoned,Winter Collection,4,Online,,,,
+37,January,Old Customer,Social Media Influencer,Women,Retention,Website,Posted Review,Review Posted,Winter Collection,7,Online,1092,Co-ord Sets,Topwear,4755
+38,January,Old Customer,Social Media Influencer,Women,Awareness,E-Commerce,Viewed Product,Continued Browsing,New Arrivals,7,Online,,,,
+39,January,New Customer,Advertisement,Women,Purchase,Website,Added to Cart,Purchased,New Arrivals,6,Online,1095,Co-ord Sets,Topwear,1135
+40,January,New Customer,Advertisement,Men,Awareness,Social Media,Viewed Product,Continued Browsing,New Arrivals,6,Online,,,,
+41,January,New Customer,Social Media Influencer,Women,Awareness,E-Commerce,Viewed Product,Continued Browsing,Winter Collection,8,Online,,,,
+42,January,New Customer,Advertisement,Men,Purchase,Website,Made Purchase,Purchased,Winter Collection,7,Online,1098,Co-ord Sets,Topwear,1060
+43,January,New Customer,Advertisement,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,Winter Collection,10,Online,,,,
+44,January,New Customer,Advertisement,Men,Purchase,In-Store,Made Purchase,Purchased,Winter Collection,10,In-Person,1102,Co-ord Sets,Topwear,3755
+45,January,Old Customer,Social Media Influencer,Women,Awareness,Social Media,Viewed Product,Continued Browsing,Winter Collection,7,Online,,,,
+46,January,New Customer,Social Media Influencer,Kids,Awareness,Website,Added to Cart,Continued Browsing,Winter Collection,10,Online,,,,
+47,January,Old Customer,Advertisement,Women,Awareness,E-Commerce,Viewed Product,Continued Browsing,New Arrivals,7,Online,,,,
+48,January,New Customer,Advertisement,Women,Awareness,Social Media,Viewed Product,Continued Browsing,Winter Collection,3,Online,,,,
+49,January,Old Customer,Social Media Influencer,Women,Consideration,Website,Added to Cart,Cart Abandoned,Winter Collection,4,Online,,,,
+50,January,New Customer,Social Media Influencer,Women,Consideration,Social Media,Added to Cart,Cart Abandoned,Winter Collection,7,Online,,,,
+51,January,Old Customer,Social Media Influencer,Women,Purchase,Website,Made Purchase,Purchased,Winter Collection,7,Online,1110,Shoes,Footwear,3905
+52,January,Old Customer,Social Media Influencer,Men,Purchase,Social Media,Made Purchase,Purchased,New Arrivals,6,Online,1112,Shirt,Topwear,3935
+53,January,New Customer,Advertisement,Kids,Consideration,Social Media,Added to Cart,Cart Abandoned,Winter Collection,3,Online,,,,
+54,January,Old Customer,Social Media Influencer,Women,Consideration,Website,Added to Cart,Cart Abandoned,Winter Collection,5,Online,,,,
+55,January,Old Customer,Advertisement,Women,Awareness,Website,Viewed Product,Continued Browsing,Winter Collection,6,Online,,,,
+56,January,Old Customer,Social Media Influencer,Kids,Consideration,Social Media,Added to Cart,Cart Abandoned,Winter Collection,8,Online,,,,
+57,January,Old Customer,Social Media Influencer,Kids,Awareness,Social Media,Viewed Product,Continued Browsing,New Arrivals,4,Online,,,,
+58,January,New Customer,Social Media Influencer,Kids,Consideration,Website,Added to Cart,Cart Abandoned,Winter Collection,7,Online,,,,
+59,January,New Customer,Advertisement,Kids,Consideration,Social Media,Added to Cart,Continued Browsing,Winter Collection,3,Online,,,,
+60,January,Old Customer,Social Media Influencer,Women,Consideration,Social Media,Added to Cart,Continued Browsing,Winter Collection,8,Online,,,,
+61,January,Old Customer,Social Media Influencer,Women,Consideration,Website,Added to Cart,Continued Browsing,Winter Collection,4,Online,,,,
+62,January,Old Customer,Social Media Influencer,Kids,Consideration,Social Media,Added to Cart,Continued Browsing,New Arrivals,5,Online,,,,
+63,January,Old Customer,Social Media Influencer,Women,Consideration,In-Store,Added to Cart,Continued Browsing,Winter Collection,3,In-Person,,,,
+64,February,New Customer,Friends/Family,Men,Purchase,E-Commerce,Made Purchase,Purchased,End of Season Sale,2,Online,1002,Tshirt,Topwear,2845
+65,February,Old Customer,Friends/Family,Men,Purchase,E-Commerce,Added to Cart,Purchased,Winter Collection,10,Online,1005,Shorts,Bottomwear,1145
+66,February,Old Customer,Friends/Family,Men,Awareness,Social Media,Viewed Product,Continued Browsing,Winter Collection,5,Online,,,,
+67,February,New Customer,Social Media Influencer,Women,Purchase,Website,Made Purchase,Purchased,End of Season Sale,8,Online,1015,Shoes,Topwear,3045
+68,February,New Customer,Social Media Influencer,Women,Awareness,In-Store,Viewed Product,Continued Browsing,New Arrivals,2,In-Person,,,,
+69,February,Old Customer,Friends/Family,Men,Purchase,Social Media,Made Purchase,Purchased,End of Season Sale,9,Online,1018,Shirt,Topwear,4145
+70,February,New Customer,Friends/Family,Men,Retention,Website,Posted Review,Review Posted,Winter Collection,9,Online,1020,Hoodie,Topwear,4885
+71,February,New Customer,Advertisement,Women,Retention,Website,Posted Review,Review Posted,New Arrivals,2,Online,1025,Joggers,Bottomwear,3530
+72,February,Old Customer,Friends/Family,Women,Purchase,Website,Made Purchase,Purchased,End of Season Sale,10,Online,1026,Shirt,Topwear,1775
+73,February,New Customer,Advertisement,Men,Awareness,In-Store,Viewed Product,Continued Browsing,Winter Collection,8,In-Person,,,,
+74,February,New Customer,Social Media Influencer,Men,Advocacy,Social Media,Gave Referral,Referral Made,End of Season Sale,5,Online,1032,Shoes,Footwear,680
+75,February,New Customer,Advertisement,Men,Consideration,In-Store,Added to Cart,Cart Abandoned,New Arrivals,4,In-Person,,,,
+76,February,Old Customer,Advertisement,Women,Awareness,In-Store,Viewed Product,Continued Browsing,New Arrivals,7,In-Person,,,,
+77,February,New Customer,Advertisement,Men,Retention,Social Media,Posted Review,Review Posted,New Arrivals,10,Online,1034,Shoes,Footwear,2225
+78,February,Old Customer,Friends/Family,Men,Purchase,E-Commerce,Added to Cart,Purchased,Winter Collection,9,Online,1040,Shoes,Footwear,2815
+79,February,New Customer,Social Media Influencer,Women,Retention,Social Media,Posted Review,Review Posted,End of Season Sale,3,Online,1044,Tshirt,Topwear,2860
+80,February,Old Customer,Advertisement,Women,Awareness,Website,Viewed Product,Continued Browsing,Winter Collection,5,Online,,,,
+81,February,New Customer,Social Media Influencer,Women,Retention,Website,Posted Review,Review Posted,End of Season Sale,5,Online,1045,Shorts,Bottomwear,3990
+82,February,Old Customer,Advertisement,Men,Consideration,In-Store,Added to Cart,Cart Abandoned,New Arrivals,9,In-Person,,,,
+83,February,New Customer,Friends/Family,Men,Retention,Social Media,Posted Review,Review Posted,New Arrivals,3,Online,1056,Shirt,Topwear,1880
+84,February,New Customer,Social Media Influencer,Men,Consideration,Website,Added to Cart,Cart Abandoned,New Arrivals,1,Online,,,,
+85,February,Old Customer,Advertisement,Women,Awareness,In-Store,Added to Cart,Continued Browsing,End of Season Sale,6,In-Person,,,,
+86,February,New Customer,Friends/Family,Men,Retention,Social Media,Posted Review,Review Posted,Winter Collection,6,Online,1072,Shorts,Bottomwear,3845
+87,February,New Customer,Advertisement,Women,Advocacy,Social Media,Gave Referral,Referral Made,End of Season Sale,10,Online,1073,Joggers,Bottomwear,4605
+88,February,Old Customer,Friends/Family,Men,Retention,E-Commerce,Posted Review,Review Posted,Winter Collection,9,Online,1076,Shoes,Footwear,990
+89,February,New Customer,Social Media Influencer,Men,Consideration,Website,Viewed Product,Continued Browsing,Winter Collection,6,Online,,,,
+90,February,Old Customer,Social Media Influencer,Women,Awareness,In-Store,Added to Cart,Continued Browsing,New Arrivals,9,In-Person,,,,
+91,February,New Customer,Advertisement,Men,Purchase,Website,Made Purchase,Continued Browsing,Winter Collection,5,Online,1086,Pants,Bottomwear,1485
+92,February,Old Customer,Advertisement,Women,Awareness,E-Commerce,Viewed Product,Continued Browsing,End of Season Sale,10,Online,,,,
+93,February,New Customer,Social Media Influencer,Men,Awareness,Social Media,Viewed Product,Continued Browsing,End of Season Sale,9,Online,,,,
+94,February,Old Customer,Social Media Influencer,Men,Consideration,Website,Viewed Product,Continued Browsing,End of Season Sale,7,Online,,,,
+95,February,New Customer,Advertisement,Kids,Consideration,In-Store,Added to Cart,Cart Abandoned,Winter Collection,7,In-Person,,,,
+96,February,Old Customer,Social Media Influencer,Women,Consideration,Website,Viewed Product,Continued Browsing,Winter Collection,4,Online,,,,
+97,February,New Customer,Social Media Influencer,Kids,Purchase,Website,Added to Cart,Purchased,End of Season Sale,10,Online,1093,Tshirt,Topwear,2860
+98,February,Old Customer,Advertisement,Women,Consideration,Social Media,Viewed Product,Continued Browsing,End of Season Sale,7,Online,,,,
+99,February,New Customer,Social Media Influencer,Women,Awareness,Website,Viewed Product,Continued Browsing,End of Season Sale,8,Online,,,,
+100,February,New Customer,Advertisement,Kids,Purchase,Website,Made Purchase,Continued Browsing,Winter Collection,10,Online,1097,Pants,Bottomwear,4390
+101,February,New Customer,Social Media Influencer,Women,Consideration,In-Store,Added to Cart,Cart Abandoned,New Arrivals,1,In-Person,,,,
+102,February,New Customer,Social Media Influencer,Women,Awareness,E-Commerce,Viewed Product,Continued Browsing,End of Season Sale,5,Online,,,,
+103,February,Old Customer,Social Media Influencer,Kids,Consideration,E-Commerce,Added to Cart,Cart Abandoned,End of Season Sale,4,Online,,,,
+104,February,New Customer,Social Media Influencer,Women,Purchase,In-Store,Made Purchase,Purchased,End of Season Sale,9,In-Person,1104,Joggers,Bottomwear,4890
+105,February,New Customer,Social Media Influencer,Women,Purchase,Social Media,Made Purchase,Purchased,Winter Collection,8,Online,1105,Top,Topwear,4575
+106,February,Old Customer,Social Media Influencer,Women,Purchase,E-Commerce,Made Purchase,Purchased,End of Season Sale,3,Online,1106,Joggers,Bottomwear,2425
+107,February,New Customer,Advertisement,Men,Consideration,Website,Added to Cart,Cart Abandoned,End of Season Sale,10,Online,,,,
+108,February,New Customer,Advertisement,Women,Awareness,Social Media,Added to Cart,Continued Browsing,End of Season Sale,7,Online,,,,
+109,February,Old Customer,Social Media Influencer,Men,Consideration,Website,Added to Cart,Cart Abandoned,Winter Collection,1,Online,,,,
+110,February,New Customer,Advertisement,Women,Purchase,Social Media,Made Purchase,Continued Browsing,End of Season Sale,9,Online,1115,Shirt,Topwear,1485
+111,February,Old Customer,Social Media Influencer,Kids,Purchase,Social Media,Made Purchase,Purchased,End of Season Sale,8,Online,1116,Shoes,Footwear,2945
+112,February,Old Customer,Advertisement,Women,Consideration,Social Media,Added to Cart,Cart Abandoned,End of Season Sale,4,Online,,,,
+113,February,Old Customer,Advertisement,Men,Consideration,Social Media,Added to Cart,Cart Abandoned,New Arrivals,4,Online,,,,
+114,March,Old Customer,Friends/Family,Men,Awareness,Website,Viewed Product,Continued Browsing,End of Season Sale,8,Online,,,,
+115,March,New Customer,Friends/Family,Men,Purchase,In-Store,Made Purchase,Purchased,End of Season Sale,8,In-Person,1004,Co-ord Sets,Topwear,2430
+116,March,New Customer,Social Media Influencer,Men,Purchase,E-Commerce,Made Purchase,Purchased,New Arrivals,3,Online,1008,Shoes,Footwear,3395
+117,March,New Customer,Friends/Family,Men,Purchase,In-Store,Made Purchase,Purchased,End of Season Sale,6,In-Person,1009,Tshirt,Topwear,2365
+118,March,Old Customer,Advertisement,Women,Purchase,Website,Made Purchase,Purchased,End of Season Sale,2,Online,1019,Shorts,Bottomwear,1765
+119,March,New Customer,Advertisement,Men,Retention,Website,Posted Review,Review Posted,End of Season Sale,7,Online,1021,Shoes,Footwear,2110
+120,March,New Customer,Friends/Family,Men,Awareness,Social Media,Viewed Product,Continued Browsing,End of Season Sale,7,Online,,,,
+121,March,New Customer,Advertisement,Men,Purchase,Website,Made Purchase,Purchased,New Arrivals,2,Online,1027,Tshirt,Topwear,2110
+122,March,New Customer,Advertisement,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,End of Season Sale,6,Online,,,,
+123,March,New Customer,Social Media Influencer,Women,Retention,E-Commerce,Posted Review,Review Posted,Summer Collection,2,Online,1035,Pants,Bottomwear,4550
+124,March,New Customer,Friends/Family,Men,Consideration,Social Media,Added to Cart,Cart Abandoned,End of Season Sale,1,Online,,,,
+125,March,New Customer,Social Media Influencer,Men,Purchase,Social Media,Made Purchase,Continued Browsing,End of Season Sale,10,Online,1036,Pants,Bottomwear,1500
+126,March,New Customer,Social Media Influencer,Women,Awareness,Website,Viewed Product,Continued Browsing,New Arrivals,8,Online,,,,
+127,March,New Customer,Advertisement,Men,Purchase,E-Commerce,Made Purchase,Continued Browsing,End of Season Sale,8,Online,1039,Pants,Bottomwear,4770
+128,March,Old Customer,Advertisement,Men,Awareness,Website,Added to Cart,Continued Browsing,End of Season Sale,9,Online,,,,
+129,March,New Customer,Friends/Family,Men,Advocacy,Website,Gave Referral,Referral Made,End of Season Sale,10,Online,1046,Cap,Accessories,1095
+130,March,Old Customer,Social Media Influencer,Women,Awareness,Website,Viewed Product,Continued Browsing,End of Season Sale,9,Online,,,,
+131,March,New Customer,Social Media Influencer,Men,Awareness,Website,Viewed Product,Continued Browsing,Summer Collection,9,Online,,,,
+132,March,New Customer,Advertisement,Men,Purchase,Social Media,Made Purchase,Purchased,New Arrivals,6,Online,1053,Bagpack,Accessories,2510
+133,March,Old Customer,Social Media Influencer,Men,Retention,E-Commerce,Posted Review,Review Posted,New Arrivals,6,Online,1055,Shoes,Footwear,2365
+134,March,Old Customer,Friends/Family,Women,Advocacy,E-Commerce,Gave Referral,Referral Made,End of Season Sale,6,Online,1057,Shoes,Footwear,2550
+135,March,Old Customer,Advertisement,Men,Consideration,In-Store,Added to Cart,Cart Abandoned,Summer Collection,4,In-Person,,,,
+136,March,New Customer,Social Media Influencer,Women,Purchase,In-Store,Added to Cart,Purchased,Summer Collection,9,In-Person,1058,Tshirt,Topwear,4145
+137,March,Old Customer,Advertisement,Men,Advocacy,Website,Gave Referral,Referral Made,Summer Collection,3,Online,1060,Shorts,Bottomwear,4500
+138,March,Old Customer,Advertisement,Women,Retention,E-Commerce,Posted Review,Review Posted,End of Season Sale,5,Online,1066,Hoodie,Topwear,4330
+139,March,Old Customer,Social Media Influencer,Men,Advocacy,Website,Gave Referral,Referral Made,Summer Collection,5,Online,1067,Tshirt,Topwear,2550
+140,March,Old Customer,Social Media Influencer,Women,Purchase,E-Commerce,Made Purchase,Continued Browsing,New Arrivals,6,Online,1070,Pants,Bottomwear,1110
+141,March,Old Customer,Friends/Family,Men,Retention,Social Media,Posted Review,Review Posted,End of Season Sale,3,Online,1071,Pants,Bottomwear,3790
+142,March,New Customer,Social Media Influencer,Men,Advocacy,E-Commerce,Gave Referral,Referral Made,Summer Collection,3,Online,1074,Shoes,Footwear,4500
+143,March,Old Customer,Social Media Influencer,Women,Awareness,Social Media,Viewed Product,Continued Browsing,Summer Collection,8,Online,,,,
+144,March,New Customer,Social Media Influencer,Men,Awareness,Social Media,Viewed Product,Continued Browsing,New Arrivals,7,Online,,,,
+145,March,Old Customer,Social Media Influencer,Men,Awareness,In-Store,Viewed Product,Continued Browsing,Summer Collection,6,In-Person,,,,
+146,March,New Customer,Social Media Influencer,Women,Retention,Website,Posted Review,Review Posted,New Arrivals,7,Online,1083,Bagpack,Accessories,4975
+147,March,New Customer,Friends/Family,Men,Awareness,In-Store,Added to Cart,Continued Browsing,New Arrivals,7,In-Person,,,,
+148,March,Old Customer,Social Media Influencer,Men,Awareness,Website,Viewed Product,Continued Browsing,End of Season Sale,8,Online,,,,
+149,March,Old Customer,Advertisement,Men,Awareness,Website,Viewed Product,Continued Browsing,Summer Collection,5,Online,,,,
+150,March,New Customer,Advertisement,Women,Awareness,Website,Viewed Product,Continued Browsing,Summer Collection,6,Online,,,,
+151,March,Old Customer,Advertisement,Women,Purchase,Website,Made Purchase,Continued Browsing,Summer Collection,7,Online,1091,Co-ord Sets,Topwear,4175
+152,March,New Customer,Social Media Influencer,Men,Purchase,Social Media,Made Purchase,Purchased,New Arrivals,8,Online,1094,Pants,Bottomwear,3530
+153,March,New Customer,Advertisement,Men,Awareness,Social Media,Viewed Product,Continued Browsing,New Arrivals,10,Online,,,,
+154,March,Old Customer,Social Media Influencer,Men,Purchase,In-Store,Made Purchase,Purchased,Summer Collection,6,In-Person,1101,Bagpack,Accessories,3790
+155,March,New Customer,Social Media Influencer,Kids,Consideration,In-Store,Added to Cart,Cart Abandoned,Summer Collection,4,In-Person,,,,
+156,March,Old Customer,Social Media Influencer,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,End of Season Sale,4,Online,,,,
+157,March,New Customer,Advertisement,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,Summer Collection,10,Online,,,,
+158,March,Old Customer,Advertisement,Women,Consideration,Website,Added to Cart,Cart Abandoned,New Arrivals,7,Online,,,,
+159,March,New Customer,Advertisement,Women,Consideration,In-Store,Added to Cart,Cart Abandoned,Summer Collection,4,In-Person,,,,
+160,March,Old Customer,Social Media Influencer,Kids,Awareness,In-Store,Viewed Product,Continued Browsing,End of Season Sale,3,In-Person,,,,
+161,March,Old Customer,Social Media Influencer,Kids,Awareness,Website,Viewed Product,Continued Browsing,End of Season Sale,5,Online,,,,
+162,March,Old Customer,Social Media Influencer,Women,Purchase,Social Media,Made Purchase,Purchased,New Arrivals,4,Online,1109,Shirt,Topwear,725
+163,March,New Customer,Social Media Influencer,Women,Consideration,Website,Added to Cart,Cart Abandoned,Summer Collection,5,Online,,,,
+164,March,New Customer,Social Media Influencer,Women,Awareness,Social Media,Viewed Product,Continued Browsing,Summer Collection,3,Online,,,,
+165,March,New Customer,Advertisement,Women,Awareness,Social Media,Viewed Product,Continued Browsing,End of Season Sale,7,Online,,,,
+166,March,New Customer,Social Media Influencer,Women,Consideration,In-Store,Added to Cart,Continued Browsing,New Arrivals,10,In-Person,,,,
+167,March,New Customer,Social Media Influencer,Women,Consideration,Social Media,Added to Cart,Continued Browsing,End of Season Sale,7,Online,,,,
+168,March,Old Customer,Social Media Influencer,Kids,Consideration,Social Media,Added to Cart,Continued Browsing,End of Season Sale,8,Online,,,,
+169,March,Old Customer,Advertisement,Men,Awareness,Social Media,Viewed Product,Continued Browsing,New Arrivals,4,Online,,,,
+170,April,New Customer,Friends/Family,Men,Purchase,E-Commerce,Made Purchase,Purchased,New Arrivals,1,Online,1006,Shoes,Footwear,1060
+171,April,Old Customer,Friends/Family,Men,Purchase,E-Commerce,Made Purchase,Purchased,Summer Collection,7,Online,1007,Shirt,Topwear,1115
+172,April,New Customer,Social Media Influencer,Men,Purchase,In-Store,Made Purchase,Purchased,Summer Collection,5,In-Person,1010,Hoodie,Topwear,4350
+173,April,New Customer,Social Media Influencer,Men,Purchase,Social Media,Made Purchase,Purchased,Summer Collection,5,Online,1011,Sweatshirt,Topwear,505
+174,April,New Customer,Social Media Influencer,Men,Purchase,E-Commerce,Made Purchase,Purchased,New Arrivals,1,Online,1012,Joggers,Bottomwear,4175
+175,April,Old Customer,Advertisement,Men,Purchase,E-Commerce,Made Purchase,Purchased,Summer Collection,3,Online,1014,Shoes,Footwear,3085
+176,April,Old Customer,Friends/Family,Men,Awareness,E-Commerce,Viewed Product,Continued Browsing,Summer Collection,8,Online,,,,
+177,April,Old Customer,Advertisement,Men,Purchase,Social Media,Made Purchase,Purchased,Summer Collection,2,Online,1017,Joggers,Bottomwear,3700
+178,April,Old Customer,Friends/Family,Women,Retention,Website,Posted Review,Review Posted,Summer Collection,6,Online,1023,Tshirt,Topwear,505
+179,April,Old Customer,Friends/Family,Women,Awareness,E-Commerce,Viewed Product,Continued Browsing,New Arrivals,7,Online,,,,
+180,April,New Customer,Friends/Family,Men,Purchase,Social Media,Made Purchase,Purchased,Summer Collection,1,Online,1029,Cap,Accessories,505
+181,April,Old Customer,Advertisement,Men,Awareness,E-Commerce,Added to Cart,Continued Browsing,Summer Collection,1,Online,,,,
+182,April,Old Customer,Advertisement,Men,Advocacy,Website,Made Purchase,Referral Made,Summer Collection,7,Online,1033,Cap,Accessories,2425
+183,April,Old Customer,Advertisement,Men,Awareness,Website,Added to Cart,Continued Browsing,Summer Collection,10,Online,,,,
+184,April,New Customer,Friends/Family,Men,Awareness,In-Store,Viewed Product,Continued Browsing,New Arrivals,2,In-Person,,,,
+185,April,New Customer,Social Media Influencer,Men,Retention,Social Media,Posted Review,Review Posted,New Arrivals,8,Online,1037,Shorts,Bottomwear,1055
+186,April,Old Customer,Advertisement,Men,Advocacy,Website,Gave Referral,Referral Made,New Arrivals,8,Online,1041,Shoes,Footwear,2595
+187,April,New Customer,Friends/Family,Women,Retention,E-Commerce,Posted Review,Review Posted,Summer Collection,6,Online,,,,
+188,April,New Customer,Social Media Influencer,Women,Awareness,E-Commerce,Viewed Product,Continued Browsing,Summer Collection,7,Online,,,,
+189,April,Old Customer,Social Media Influencer,Men,Awareness,In-Store,Viewed Product,Continued Browsing,Summer Collection,2,In-Person,,,,
+190,April,Old Customer,Friends/Family,Men,Consideration,In-Store,Added to Cart,Cart Abandoned,Summer Collection,1,In-Person,,,,
+191,April,Old Customer,Social Media Influencer,Men,Advocacy,Website,Made Purchase,Referral Made,Summer Collection,9,Online,1049,Pants,Bottomwear,4675
+192,April,New Customer,Social Media Influencer,Women,Retention,Social Media,Posted Review,Review Posted,Summer Collection,4,Online,1051,Co-ord Sets,Topwear,2240
+193,April,Old Customer,Friends/Family,Men,Retention,Website,Posted Review,Review Posted,Summer Collection,2,Online,1052,Top,Topwear,2420
+194,April,New Customer,Social Media Influencer,Men,Advocacy,Website,Made Purchase,Referral Made,Summer Collection,8,Online,1054,Shoes,Footwear,1450
+195,April,Old Customer,Advertisement,Men,Retention,Website,Posted Review,Review Posted,New Arrivals,9,Online,1059,Top,Topwear,3615
+196,April,Old Customer,Social Media Influencer,Men,Awareness,In-Store,Viewed Product,Continued Browsing,Summer Collection,7,In-Person,,,,
+197,April,Old Customer,Friends/Family,Women,Purchase,In-Store,Made Purchase,Purchased,Summer Collection,6,In-Person,1061,Joggers,Bottomwear,3700
+198,April,New Customer,Friends/Family,Men,Retention,Website,Posted Review,Review Posted,Summer Collection,7,Online,1064,Shoes,Footwear,4890
+199,April,Old Customer,Friends/Family,Men,Advocacy,Social Media,Gave Referral,Referral Made,Summer Collection,9,Online,1065,Pants,Bottomwear,1760
+200,April,Old Customer,Social Media Influencer,Men,Awareness,In-Store,Added to Cart,Continued Browsing,Summer Collection,10,In-Person,,,,
+201,April,Old Customer,Social Media Influencer,Women,Retention,Website,Posted Review,Review Posted,Summer Collection,3,Online,1068,Shorts,Bottomwear,1485
+202,April,Old Customer,Advertisement,Men,Purchase,In-Store,Added to Cart,Purchased,Summer Collection,10,In-Person,1075,Shoes,Footwear,1910
+203,April,Old Customer,Advertisement,Men,Consideration,Website,Viewed Product,Continued Browsing,Summer Collection,2,Online,,,,
+204,April,Old Customer,Friends/Family,Men,Purchase,Website,Made Purchase,Purchased,Summer Collection,3,Online,1077,Shoes,Footwear,1510
+205,April,Old Customer,Social Media Influencer,Men,Awareness,Website,Added to Cart,Continued Browsing,Summer Collection,10,Online,,,,
+206,April,New Customer,Friends/Family,Women,Retention,Website,Posted Review,Review Posted,New Arrivals,3,Online,1079,Co-ord Sets,Topwear,4955
+207,April,Old Customer,Social Media Influencer,Men,Awareness,In-Store,Viewed Product,Continued Browsing,New Arrivals,10,In-Person,,,,
+208,April,New Customer,Social Media Influencer,Men,Retention,Social Media,Made Purchase,Review Posted,Summer Collection,5,Online,1080,Tshirt,Topwear,3540
+209,April,Old Customer,Advertisement,Women,Purchase,Website,Added to Cart,Purchased,Summer Collection,8,Online,1081,Pants,Bottomwear,4330
+210,April,New Customer,Friends/Family,Men,Purchase,E-Commerce,Added to Cart,Purchased,Summer Collection,5,Online,1084,Shoes,Footwear,685
+211,April,Old Customer,Social Media Influencer,Women,Awareness,Website,Viewed Product,Continued Browsing,Summer Collection,6,Online,,,,
+212,April,New Customer,Friends/Family,Men,Retention,E-Commerce,Posted Review,Review Posted,Summer Collection,3,Online,1085,Bagpack,Accessories,1595
+213,April,New Customer,Social Media Influencer,Men,Consideration,In-Store,Added to Cart,Cart Abandoned,Summer Collection,4,In-Person,,,,
+214,April,Old Customer,Advertisement,Women,Awareness,E-Commerce,Added to Cart,Continued Browsing,New Arrivals,6,Online,,,,
+215,April,New Customer,Advertisement,Kids,Purchase,E-Commerce,Added to Cart,Purchased,Summer Collection,9,Online,1087,Shoes,Footwear,2880
+216,April,Old Customer,Advertisement,Men,Retention,Website,Posted Review,Review Posted,Summer Collection,4,Online,1088,Shorts,Bottomwear,2425
+217,April,New Customer,Social Media Influencer,Men,Awareness,In-Store,Viewed Product,Continued Browsing,Summer Collection,3,In-Person,,,,
+218,April,Old Customer,Social Media Influencer,Women,Awareness,Website,Viewed Product,Continued Browsing,Summer Collection,4,Online,,,,
+219,April,New Customer,Social Media Influencer,Women,Consideration,Social Media,Added to Cart,Cart Abandoned,Summer Collection,4,Online,,,,
+220,April,Old Customer,Social Media Influencer,Kids,Retention,Website,Posted Review,Review Posted,Summer Collection,2,Online,1090,Co-ord Sets,Topwear,3795
+221,April,Old Customer,Advertisement,Kids,Consideration,E-Commerce,Viewed Product,Continued Browsing,New Arrivals,4,Online,,,,
+222,April,New Customer,Advertisement,Kids,Awareness,E-Commerce,Viewed Product,Continued Browsing,New Arrivals,8,Online,,,,
+223,April,New Customer,Social Media Influencer,Kids,Consideration,In-Store,Added to Cart,Cart Abandoned,Summer Collection,4,In-Person,,,,
+224,April,Old Customer,Social Media Influencer,Kids,Awareness,Social Media,Viewed Product,Continued Browsing,New Arrivals,7,Online,,,,
+225,April,New Customer,Social Media Influencer,Men,Purchase,In-Store,Made Purchase,Purchased,New Arrivals,8,In-Person,1096,Tshirt,Topwear,2795
+226,April,Old Customer,Social Media Influencer,Kids,Awareness,E-Commerce,Viewed Product,Continued Browsing,Summer Collection,6,Online,,,,
+227,April,Old Customer,Advertisement,Kids,Purchase,E-Commerce,Made Purchase,Purchased,New Arrivals,6,Online,1099,Bagpack,Accessories,2605
+228,April,New Customer,Social Media Influencer,Women,Awareness,Website,Added to Cart,Continued Browsing,Summer Collection,5,Online,,,,
+229,April,New Customer,Advertisement,Men,Purchase,Social Media,Made Purchase,Purchased,Summer Collection,6,Online,1100,Bagpack,Accessories,2320
+230,April,New Customer,Advertisement,Women,Consideration,In-Store,Added to Cart,Cart Abandoned,Summer Collection,9,In-Person,,,,
+231,April,Old Customer,Advertisement,Men,Awareness,Website,Viewed Product,Continued Browsing,New Arrivals,4,Online,,,,
+232,April,Old Customer,Social Media Influencer,Kids,Purchase,Website,Made Purchase,Purchased,Summer Collection,6,Online,1103,Shorts,Bottomwear,4485
+233,April,New Customer,Social Media Influencer,Women,Consideration,E-Commerce,Added to Cart,Cart Abandoned,Summer Collection,3,Online,,,,
+234,April,New Customer,Advertisement,Women,Purchase,Website,Made Purchase,Purchased,New Arrivals,9,Online,1107,Co-ord Sets,Topwear,2360
+235,April,Old Customer,Social Media Influencer,Kids,Awareness,E-Commerce,Viewed Product,Continued Browsing,Summer Collection,2,Online,,,,
+236,April,Old Customer,Social Media Influencer,Men,Awareness,Social Media,Viewed Product,Continued Browsing,New Arrivals,4,Online,,,,
+237,April,New Customer,Social Media Influencer,Kids,Purchase,E-Commerce,Made Purchase,Continued Browsing,Summer Collection,8,Online,1108,Joggers,Bottomwear,3540
+238,April,Old Customer,Social Media Influencer,Kids,Awareness,E-Commerce,Viewed Product,Continued Browsing,Summer Collection,5,Online,,,,
+239,April,Old Customer,Advertisement,Kids,Consideration,Website,Added to Cart,Cart Abandoned,Summer Collection,4,Online,,,,
+240,April,Old Customer,Social Media Influencer,Men,Consideration,Social Media,Added to Cart,Cart Abandoned,Summer Collection,3,Online,,,,
+241,April,Old Customer,Social Media Influencer,Women,Purchase,Social Media,Made Purchase,Purchased,Summer Collection,7,Online,1111,Tshirt,Topwear,2185
+242,April,Old Customer,Social Media Influencer,Women,Purchase,Social Media,Made Purchase,Purchased,New Arrivals,6,Online,1113,Shirt,Topwear,1625
+243,April,New Customer,Social Media Influencer,Men,Purchase,Social Media,Made Purchase,Purchased,Summer Collection,9,Online,1114,Shoes,Footwear,3620
+244,April,Old Customer,Social Media Influencer,Kids,Consideration,Social Media,Added to Cart,Cart Abandoned,New Arrivals,8,Online,,,,
+245,April,New Customer,Social Media Influencer,Men,Awareness,Website,Viewed Product,Continued Browsing,Summer Collection,9,Online,,,,
+246,April,Old Customer,Advertisement,Kids,Awareness,Website,Viewed Product,Continued Browsing,New Arrivals,6,Online,,,,
+247,April,New Customer,Advertisement,Kids,Awareness,Website,Viewed Product,Continued Browsing,Summer Collection,7,Online,,,,
+248,April,New Customer,Social Media Influencer,Women,Awareness,Social Media,Viewed Product,Continued Browsing,Summer Collection,8,Online,,,,
+249,April,Old Customer,Advertisement,Women,Consideration,Website,Added to Cart,Continued Browsing,New Arrivals,8,Online,,,,
+250,April,New Customer,Social Media Influencer,Men,Consideration,Social Media,Added to Cart,Continued Browsing,New Arrivals,8,Online,,,,

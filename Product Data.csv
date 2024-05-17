@@ -1,0 +1,117 @@
+CustomerID,ProductID,Product Name,Product Category,Clothing Section,Sales Campaign,Discount Applied?,Total Amount (in Rs)
+2,1001,Tshirt,Topwear,Men,Winter Collection,Yes,690
+3,1002,Tshirt,Topwear,Men,End of Season Sale,No,2845
+5,1003,Shoes,Footwear,Men,Winter Collection,Yes,3325
+6,1004,Co-ord Sets,Topwear,Men,End of Season Sale,Yes,2430
+7,1005,Shorts,Bottomwear,Men,Winter Collection,No,1145
+8,1006,Shoes,Footwear,Men,New Arrivals,No,1060
+9,1007,Shirt,Topwear,Men,Summer Collection,No,1115
+10,1008,Shoes,Footwear,Men,New Arrivals,No,3395
+11,1009,Tshirt,Topwear,Men,End of Season Sale,No,2365
+13,1010,Hoodie,Topwear,Men,Summer Collection,Yes,4350
+14,1011,Sweatshirt,Topwear,Men,Summer Collection,No,505
+15,1012,Joggers,Bottomwear,Men,New Arrivals,Yes,4175
+16,1013,Pants,Bottomwear,Men,New Arrivals,Yes,3045
+17,1014,Shoes,Footwear,Men,Summer Collection,No,3085
+19,1015,Shoes,Topwear,Women,End of Season Sale,Yes,3045
+20,1016,Sweatshirt,Topwear,Women,Winter Collection,Yes,3855
+23,1017,Joggers,Bottomwear,Men,Summer Collection,Yes,3700
+24,1018,Shirt,Topwear,Men,End of Season Sale,Yes,4145
+25,1019,Shorts,Bottomwear,Women,End of Season Sale,No,1765
+26,1020,Hoodie,Topwear,Men,Winter Collection,Yes,4885
+27,1021,Shoes,Footwear,Men,End of Season Sale,No,2110
+28,1022,Shirt,Topwear,Men,Winter Collection,No,2185
+31,1023,Tshirt,Topwear,Women,Summer Collection,Yes,505
+34,1024,Bagpack,Accessories,Men,Winter Collection,No,1455
+35,1025,Joggers,Bottomwear,Women,New Arrivals,No,3530
+36,1026,Shirt,Topwear,Women,End of Season Sale,No,1775
+39,1027,Tshirt,Topwear,Men,New Arrivals,Yes,2110
+40,1028,Cap,Accessories,Men,Winter Collection,No,1295
+41,1029,Cap,Accessories,Men,Summer Collection,No,505
+42,1030,Pants,Bottomwear,Men,Winter Collection,No,4680
+43,1031,Cap,Accessories,Men,Winter Collection,Yes,2320
+45,1032,Shoes,Footwear,Men,End of Season Sale,No,680
+50,1033,Cap,Accessories,Men,Summer Collection,Yes,2425
+51,1034,Shoes,Footwear,Men,New Arrivals,Yes,2225
+53,1035,Pants,Bottomwear,Women,Summer Collection,Yes,4550
+56,1036,Pants,Bottomwear,Men,End of Season Sale,Yes,1500
+57,1037,Shorts,Bottomwear,Men,New Arrivals,Yes,1055
+59,1038,Joggers,Bottomwear,Men,New Arrivals,Yes,1255
+60,1039,Pants,Bottomwear,Men,End of Season Sale,No,4770
+61,1040,Shoes,Footwear,Men,Winter Collection,Yes,2815
+62,1041,Shoes,Footwear,Men,New Arrivals,No,2595
+63,1042,Joggers,Bottomwear,Men,Winter Collection,No,2015
+64,1043,Cap,Accessories,Women,End of Season Sale,Yes,1725
+65,1044,Tshirt,Topwear,Women,End of Season Sale,No,2860
+67,1045,Shorts,Bottomwear,Women,End of Season Sale,No,3990
+69,1046,Cap,Accessories,Men,End of Season Sale,No,1095
+72,1047,Hoodie,Topwear,Men,Winter Collection,No,1260
+73,1048,Joggers,Bottomwear,Men,Winter Collection,Yes,4290
+77,1049,Pants,Bottomwear,Men,Summer Collection,No,4675
+78,1050,Shoes,Footwear,Men,Winter Collection,Yes,3620
+80,1051,Co-ord Sets,Topwear,Women,Summer Collection,No,2240
+81,1052,Top,Topwear,Men,Summer Collection,No,2420
+82,1053,Bagpack,Accessories,Men,New Arrivals,Yes,2510
+83,1054,Shoes,Footwear,Men,Summer Collection,No,1450
+84,1055,Shoes,Footwear,Men,New Arrivals,No,2365
+85,1056,Shirt,Topwear,Men,New Arrivals,No,1880
+86,1057,Shoes,Footwear,Women,End of Season Sale,Yes,2550
+88,1058,Tshirt,Topwear,Women,Summer Collection,No,4145
+89,1059,Top,Topwear,Men,New Arrivals,Yes,3615
+91,1060,Shorts,Bottomwear,Men,Summer Collection,No,4500
+92,1061,Joggers,Bottomwear,Women,Summer Collection,Yes,3700
+93,1062,Shoes,Footwear,Women,Winter Collection,Yes,680
+94,1063,Shoes,Footwear,Women,Winter Collection,No,2845
+95,1064,Shoes,Footwear,Men,Summer Collection,No,4890
+96,1065,Pants,Bottomwear,Men,Summer Collection,Yes,1760
+97,1066,Hoodie,Topwear,Women,End of Season Sale,Yes,4330
+101,1067,Tshirt,Topwear,Men,Summer Collection,No,2550
+102,1068,Shorts,Bottomwear,Women,Summer Collection,Yes,1485
+103,1069,Joggers,Bottomwear,Women,Winter Collection,No,4890
+106,1070,Pants,Bottomwear,Women,New Arrivals,No,1110
+107,1071,Pants,Bottomwear,Men,End of Season Sale,No,3790
+108,1072,Shorts,Bottomwear,Men,Winter Collection,No,3845
+109,1073,Joggers,Bottomwear,Women,End of Season Sale,Yes,4605
+110,1074,Shoes,Footwear,Men,Summer Collection,No,4500
+112,1075,Shoes,Footwear,Men,Summer Collection,Yes,1910
+114,1076,Shoes,Footwear,Men,Winter Collection,No,990
+115,1077,Shoes,Footwear,Men,Summer Collection,Yes,1510
+116,1078,Shorts,Bottomwear,Women,New Arrivals,No,1260
+118,1079,Co-ord Sets,Topwear,Women,New Arrivals,Yes,4955
+124,1080,Tshirt,Topwear,Men,Summer Collection,Yes,3540
+127,1081,Pants,Bottomwear,Women,Summer Collection,No,4330
+131,1082,Hoodie,Topwear,Men,Winter Collection,No,1535
+132,1083,Bagpack,Accessories,Women,New Arrivals,No,4975
+134,1084,Shoes,Footwear,Men,Summer Collection,No,685
+137,1085,Bagpack,Accessories,Men,Summer Collection,Yes,1595
+139,1086,Pants,Bottomwear,Men,Winter Collection,No,1485
+142,1087,Shoes,Footwear,Kids,Summer Collection,Yes,2880
+143,1088,Shorts,Bottomwear,Men,Summer Collection,Yes,2425
+145,1089,Shirt,Topwear,Kids,New Arrivals,No,3700
+150,1090,Co-ord Sets,Topwear,Kids,Summer Collection,Yes,3795
+156,1091,Co-ord Sets,Topwear,Women,Summer Collection,Yes,4175
+158,1092,Co-ord Sets,Topwear,Women,Winter Collection,Yes,4755
+162,1093,Tshirt,Topwear,Kids,End of Season Sale,Yes,2860
+165,1094,Pants,Bottomwear,Men,New Arrivals,No,3530
+168,1095,Co-ord Sets,Topwear,Women,New Arrivals,No,1135
+171,1096,Tshirt,Topwear,Men,New Arrivals,No,2795
+173,1097,Pants,Bottomwear,Kids,Winter Collection,No,4390
+174,1098,Co-ord Sets,Topwear,Men,Winter Collection,Yes,1060
+176,1099,Bagpack,Accessories,Kids,New Arrivals,Yes,2605
+178,1100,Bagpack,Accessories,Men,Summer Collection,No,2320
+181,1101,Bagpack,Accessories,Men,Summer Collection,No,3790
+184,1102,Co-ord Sets,Topwear,Men,Winter Collection,No,3755
+185,1103,Shorts,Bottomwear,Kids,Summer Collection,Yes,4485
+193,1104,Joggers,Bottomwear,Women,End of Season Sale,No,4890
+194,1105,Top,Topwear,Women,Winter Collection,No,4575
+195,1106,Joggers,Bottomwear,Women,End of Season Sale,No,2425
+199,1107,Co-ord Sets,Topwear,Women,New Arrivals,Yes,2360
+211,1108,Joggers,Bottomwear,Kids,Summer Collection,Yes,3540
+214,1109,Shirt,Topwear,Women,New Arrivals,Yes,725
+218,1110,Shoes,Footwear,Women,Winter Collection,Yes,3905
+219,1111,Tshirt,Topwear,Women,Summer Collection,Yes,2185
+220,1112,Shirt,Topwear,Men,New Arrivals,Yes,3935
+221,1113,Shirt,Topwear,Women,New Arrivals,Yes,1625
+222,1114,Shoes,Footwear,Men,Summer Collection,Yes,3620
+223,1115,Shirt,Topwear,Women,End of Season Sale,No,1485
+225,1116,Shoes,Footwear,Kids,End of Season Sale,No,2945
